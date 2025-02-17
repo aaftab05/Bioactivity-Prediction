@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bioactivity-prediction-app",
+  "private_key_id": "1fd0428b1c1a56d74bebdc636ceb7b25c08f467b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiJT0KwNYKwYfr\nw1jhjQWYy01nsoqw5Z/SgjTc6/NDBuZ/J6JuTIT4SyZg/LZWWhVN6qlf9Mq3MiJd\n8sg9H7vqxOA1pHFkbrEW6YeGcUQfQsCwO2OYqTX7oHxM7JC0xiWiMB+cEWOT8cJ5\nFQWWOtMqR94smqHIPOHdf/mk1AgHJ4X0Fk9Iwtv+1tKDgYi650sYInLlHHcSDI35\nGu9ifB6ZWzI6y8bG047vObC0xfOUPvgb9enuASo07/dREJnVDaQAmwpmpg67EYH7\nCs3JUBlESa0iRpACg8m2GrhHG70VGxNPYHnmeOK7JiG+RnWD2/HGivQwG0oyRHam\nqmoNESJ7AgMBAAECggEAAeVaLBGEKMnWUbkauKYIlJ6v7+n3bPxKXNCqVvj1T7Y5\ncYj6AVZb6arrSHZvMiqvr0kMPcB9f4KsQmZcomy7REWU2SiFx00m1r2lS+4Jt2BC\nI4b8pT2fqxEKn9WjFx7UzgT7bm/WA7yJPLEBVZ5B3aLLsMBs6tjEMiEiC9c+cfyN\nPgs/7ZcJjN3Rk0Dv6BgzWjZhff4jsKGsB/n2rryAYkz4DzOp790eJqBbczn1ZyEA\nq2LwJ8Y1NwmyF5DwN53+5ogtKsK9a8TskoKM/1ileZ61e9WUhZXSoXbEG4bHWeNc\nYuJHtLNRXKnoziZmq761AW1dtJaK1m2iXv7GOQ8Z/QKBgQDb5Ej846pUpSRi3ENd\nLiQ8HcgWliBuq4cN1f9fTSdfMY8WwToulcJnYFAVtcfNWE4uD19PUfxsexufyqHL\n5NofbS5u4jmmdPl9wQ02PgT5/ZyWUSaMBw6eHvpFSJr4/MG9uObLS8SqfGgL3K0I\nMtlBsLn2A0mn2CFtgzageO+kfQKBgQC8xXCozmg5nEE0dv+lG74hyCoEylBKsLLH\npV1J5QeJYpn58ZflQMiWyiyg2QoIVrs86DSKIrIPytSIR3Mvs+4gAr65EgBOttQN\nXmWWG8x30Q3vg/dfoUbLrraf3NVCr7adsvujyW7P2n8wnuIDmbZNSddLwxovrLqj\nXrwsyYHsVwKBgQDPfaWFxAqJHt+rza5fMdgNRgj1jyoBZCfnXWRA+FvLjsc3sJOH\nO9ealp5bLhHgaZA0FFtaTMHFV5Fkgd+Ut1k/yFXFWgEOWljGWjFuWq11e+OTT/Xw\nsgQQHqkIUY+ynUbwEJbvhIqKWSQQ9WXtU5YAT5PaWZXaJK6+WM9mM1fmPQKBgGgy\nl8gl/vPl4zwhf2VU1fNxuHficMV5mYWIKuFSEYHtMk774ztBMjfBqzax9s65iSrK\nhc3F7wG2lPAQeG1ZZVS4Dyy62f6Y/p3OgEaGW6u7cnTGJDLeI+TkMJw3WmQv954+\noJY85vTGh7R/zwPrwewRmUyRig/MyUzKSxZxuEyLAoGAEXNyQz06RnCMzBypcwRu\niFV0A5xzp51+kw0GUb0oQIANjlEdaOfmlU+hJzfXnwowfBBEtuGeeJHcxvoXxbbb\nArJN6LiJiMNqquYRs4N0j4CAa3wn4stGviii3c2MpCz1OQiW7Zj4Y1ZTdoPvZMeo\nkzXjVLAlNHU0SyXsi2iJviA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wr52b@bioactivity-prediction-app.iam.gserviceaccount.com",
+  "client_id": "100173161456982832175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wr52b%40bioactivity-prediction-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
